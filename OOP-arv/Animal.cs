@@ -1,21 +1,25 @@
 using System.Drawing;
 
 namespace OOP_arv;
-
-public class Animal
+//Klassen Animal görs abstract eftersom jag inte ska skapa några instanser av den.
+public abstract class Animal
 {
+    //Här deklarerar jag alla egenskaper.
     protected string Name;
     protected int Age;
     protected string Species;
     protected string Color;
     protected string Sex;
+    //En tom metod som jag kommer att överlagra i mina subklasser.
     public virtual void Eat()
     {
     }
+    //Visar info om djuret. Är virtual så att subklasserna kan lägga till mer information.
     public virtual void DisplayInfo()
     {
         Console.WriteLine($"{Species}\n{Name}\n{Age}\n{Color}");
     }
+    //Producerar djurets läte.
     public virtual void MakeSound()
     {
     }
@@ -28,6 +32,7 @@ public class Animal
         Color = "Okänd";
         Sex = "Hane";
     }
+    //Konstruktor som tar in alla värden utom Species då jag inte tänker låta använderam bestämma det.
     public Animal(string name, int age, string color, string sex)
     {
         Name = name;
