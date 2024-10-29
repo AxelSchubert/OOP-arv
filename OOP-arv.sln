@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-arv", "OOP-arv\OOP-arv.csproj", "{E763738B-4658-4B84-8AF3-AA034428F900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E763738B-4658-4B84-8AF3-AA034428F900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E763738B-4658-4B84-8AF3-AA034428F900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E763738B-4658-4B84-8AF3-AA034428F900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E763738B-4658-4B84-8AF3-AA034428F900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

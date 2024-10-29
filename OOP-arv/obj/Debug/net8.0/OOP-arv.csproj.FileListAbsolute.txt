@@ -1,0 +1,14 @@
+/Users/axelschubert/RiderProjects/OOP-arv/OOP-arv/bin/Debug/net8.0/OOP-arv
+/Users/axelschubert/RiderProjects/OOP-arv/OOP-arv/bin/Debug/net8.0/OOP-arv.deps.json
+/Users/axelschubert/RiderProjects/OOP-arv/OOP-arv/bin/Debug/net8.0/OOP-arv.runtimeconfig.json
+/Users/axelschubert/RiderProjects/OOP-arv/OOP-arv/bin/Debug/net8.0/OOP-arv.dll
+/Users/axelschubert/RiderProjects/OOP-arv/OOP-arv/bin/Debug/net8.0/OOP-arv.pdb
+/Users/axelschubert/RiderProjects/OOP-arv/OOP-arv/obj/Debug/net8.0/OOP-arv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axelschubert/RiderProjects/OOP-arv/OOP-arv/obj/Debug/net8.0/OOP-arv.AssemblyInfoInputs.cache
+/Users/axelschubert/RiderProjects/OOP-arv/OOP-arv/obj/Debug/net8.0/OOP-arv.AssemblyInfo.cs
+/Users/axelschubert/RiderProjects/OOP-arv/OOP-arv/obj/Debug/net8.0/OOP-arv.csproj.CoreCompileInputs.cache
+/Users/axelschubert/RiderProjects/OOP-arv/OOP-arv/obj/Debug/net8.0/OOP-arv.dll
+/Users/axelschubert/RiderProjects/OOP-arv/OOP-arv/obj/Debug/net8.0/refint/OOP-arv.dll
+/Users/axelschubert/RiderProjects/OOP-arv/OOP-arv/obj/Debug/net8.0/OOP-arv.pdb
+/Users/axelschubert/RiderProjects/OOP-arv/OOP-arv/obj/Debug/net8.0/OOP-arv.genruntimeconfig.cache
+/Users/axelschubert/RiderProjects/OOP-arv/OOP-arv/obj/Debug/net8.0/ref/OOP-arv.dll
